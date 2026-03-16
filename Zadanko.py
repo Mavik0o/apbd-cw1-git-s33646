@@ -1,1 +1,2 @@
-print("Wypisujeeeee rzeczy do rzeczy")
+class StatisticsHelper():
+    pass
