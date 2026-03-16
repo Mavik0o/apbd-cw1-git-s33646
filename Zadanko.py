@@ -3,3 +3,5 @@ class StatisticsHelper():
         pass
     def calculate_statistics(self, number):
         return sum(number) / len(number)
+    def find_minimum(self,  number):
+        return min(number)
