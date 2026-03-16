@@ -9,3 +9,6 @@ class StatisticsHelper():
         return max(number)
     def CalculateAverage(self, values):
         return sum(values) / len(values)
+    def CalculateMaximum(self, values):
+        print("tak, to znowu ta sama funkcja")
+        return max(values)
