@@ -1,0 +1,1 @@
+print("Wypisujeeeee rzeczy do rzeczy")
