@@ -7,3 +7,5 @@ class StatisticsHelper():
         return min(number)
     def find_maximum(self, number):
         return max(number)
+    def CalculateAverage(self, values):
+        return sum(values) / len(values)
