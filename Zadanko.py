@@ -5,3 +5,5 @@ class StatisticsHelper():
         return sum(number) / len(number)
     def find_minimum(self,  number):
         return min(number)
+    def find_maximum(self, number):
+        return max(number)
