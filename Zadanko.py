@@ -13,4 +13,4 @@ class StatisticsHelper():
         print("tak, to znowu ta sama funkcja")
         return max(values)
     def CalculateMinimum(self, values):
-        pass
+        return min(values)
