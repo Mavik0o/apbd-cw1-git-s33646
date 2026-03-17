@@ -12,3 +12,5 @@ class StatisticsHelper():
     def CalculateMaximum(self, values):
         print("tak, to znowu ta sama funkcja")
         return max(values)
+    def CalculateMinimum(self, values):
+        pass
