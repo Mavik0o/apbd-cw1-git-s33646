@@ -10,7 +10,7 @@ class StatisticsHelper():
     def CalculateAverage(self, values):
         return sum(values) / len(values)
     def CalculateMaximum(self, values):
-        print("tak, to znowu ta sama funkcja")
+        print("tak, to znowu ta sama funkcja teraz dodaje inaczej")
         return max(values)
     def CalculateMinimum(self, values):
         return min(values)
