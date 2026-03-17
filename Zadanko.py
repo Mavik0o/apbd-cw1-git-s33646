@@ -14,3 +14,4 @@ class StatisticsHelper():
         return max(values)
     def CalculateMinimum(self, values):
         return min(values)
+print("Minimum:", StatisticsHelper().CalculateMinimum([1, 2, 3, 4, 5]))
